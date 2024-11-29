@@ -9,7 +9,7 @@
 ## My name is Rafael Tavares
 (C# | .net | AWS | Azure | Angular | Typescript | Javascript | HTML | CSS ) 🚀
 - 👩‍💻 Software Enginner @[Zup Innovation](https://www.zup.com.br/)
-- 🏆 Microsft SP
+- 🏆 Microsft SP/MTA
 - 🎓 Technological degree in Internet Systems
 - 🎓 Master degree in Computer Science - Data Vizualization
 - 🌐 Passionate about web development
